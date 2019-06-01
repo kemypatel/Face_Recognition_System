@@ -12,4 +12,4 @@
 <img src ="Images/Unlocked.png" width="400" height="300">
 
       when your system doesnot recognize your face it will show Locked.
-<img src ="Images/locked.png" width="400" height="300">
+<img src ="Images/Locked.png" width="400" height="300">
