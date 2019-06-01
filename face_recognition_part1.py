@@ -3,10 +3,10 @@
 import cv2
 import numpy as np
 
-#cascade classifiers created a object face_classifier
+
 face_classifier = cv2.CascadeClassifier("C:/Python/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml")
 
-#extract face features
+
 def face_extractor(img):
 
     gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
