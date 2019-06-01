@@ -2,6 +2,9 @@
 In this Project i have used openCV library.
 for installing opencv you can install from this link :
 https://pypi.org/project/opencv-python/
+and we are using Numpy
+you can install it from :
+https://pypi.org/project/numpy/
 
 
 ## Face_Recognition_part1 :
