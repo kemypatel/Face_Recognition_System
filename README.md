@@ -1,4 +1,9 @@
 # Face_Recognition_System
+In this Project i have used openCV library.
+for installing opencv you can install from this link :
+https://pypi.org/project/opencv-python/
+
+
 ## Face_Recognition_part1 :
       In this part we are collecting samples of our face using openCV Library
 <img src ="Images/Faces.png" width="400" height="300">
